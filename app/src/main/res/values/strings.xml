@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Newsly</string>
+    <string name="title">SAMACHAR</string>
+    <string name="Email">Email</string>
+    <string name="pass">Password</string>
+    <string name="log_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="caption">Infotainment Only</string>
+    <string name="credits">Created by Priyanshu</string>
+    <string name="name">Name</string>
+    <string name="phone">Mobile Number</string>
+    <string name="gender3">Prefer Not to say</string>
+    <string name="his">Male</string>
+    <string name="her">Female</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_with">-----Sign In with----</string>
+    <string name="please_login_to_your_account">Please login to your account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="please_enter_email_and_password">Please Enter Email and Password</string>
+    <string name="welcome_buddy">Welcome Buddy</string>
+    <string name="others">Others</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="signout">Signout</string>
+    <string name="web_view">Web View</string>
+
+</resources>

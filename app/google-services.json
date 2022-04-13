@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298812548433",
+    "project_id": "samachar-eb25d",
+    "storage_bucket": "samachar-eb25d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298812548433:android:df8adb428673c6fdb79f70",
+        "android_client_info": {
+          "package_name": "com.priyanshu.samachar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298812548433-0o2b30ses3o4la4eq46bnr1sel7a6rfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NFM8qOO6k91KLkvQ6hXxcmRpJV9cdPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298812548433-0o2b30ses3o4la4eq46bnr1sel7a6rfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

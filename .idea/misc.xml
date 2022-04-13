@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/font/.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/font/antic_slab.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/activity_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/activity_webview.xml" value="0.25" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/entertainment_fragments.xml" value="0.25" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/health_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/home_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/layout_item.xml" value="0.264" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/science_fragments.xml" value="0.25" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/sports_fragments.xml" value="0.25" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/tech_fragments.xml" value="0.25" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/tool_bar.xml" value="0.25" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/layout/world_fragments.xml" value="0.25" />
+        <entry key="..\:/Users/Priyanshu Panda/Downloads/Samachar/app/src/main/res/menu/tool_bar_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
